@@ -1,0 +1,1 @@
+Runs smoothly when the app is little zoomed out in a 21" screen
